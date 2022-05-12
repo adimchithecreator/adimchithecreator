@@ -1,5 +1,6 @@
 <h1 align="center">Hi! I'm Adimchi</h1>
-<h3 align="center"> Front-end Developer in Nigeria</p>
+<h3 align="center"> Front-end Developer in Nigeria</h3>
+
 
 - 🔭 I’m currently working on **a travel agency website and improving my web development skills**
 
