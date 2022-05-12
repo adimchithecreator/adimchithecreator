@@ -1,9 +1,9 @@
-<h1 align="center">Hi!I'm Adimchi</h1>
-<p> I am a front-end developer </p>
+<h1 align="center">Hi! I'm Adimchi</h1>
+<h3 align="center"> Front-end Developer in Nigeria</p>
 
 - 🔭 I’m currently working on **a travel agency website and improving my web development skills**
 
-- 🌱 I’m currently learning  <a href="https://developer.mozilla.org/en-US/docs/Web/React" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="javascript" width="40" height="40"/>
+- 🌱 I’m currently learning  <a href="https://developer.mozilla.org/en-US/docs/Web/React" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="javascript" width="40" height="40"/> </a>
 
 - 👯 I’m looking to collaborate on **Open source web development projects**
 
