@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https://adimchi.netlify.app/](https://adimchi.netlify.app/)
 
-- 💬 Ask me about **HTML**  **CSS** **JavaScript** and **music**😉
+- 💬 Ask me about **HTML** , **CSS** ,**JavaScript**, and **music**😉
 
-- ⚡ Fun fact **I am a trnsitioning teacher**
+- ⚡ Fun fact **I am a transitioning teacher**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
